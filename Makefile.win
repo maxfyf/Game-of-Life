@@ -35,3 +35,4 @@ initiation.o: initiation.c
 
 file.o: file.c
 	$(CC) -c file.c -o file.o $(CFLAGS)
+
